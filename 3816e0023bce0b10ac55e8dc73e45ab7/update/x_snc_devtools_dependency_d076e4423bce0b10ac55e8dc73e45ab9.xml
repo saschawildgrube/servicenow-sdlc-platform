@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_devtools_dependency">
     <x_snc_devtools_dependency action="INSERT_OR_UPDATE">
-        <dependency display_value="SDLC Alpha" source="x_sdlc_alpha">ac26e4023bce0b10ac55e8dc73e45afa</dependency>
+        <dependency display_value="SDLC Alpha WORK IN PROGRESS" source="x_sdlc_alpha">ac26e4023bce0b10ac55e8dc73e45afa</dependency>
         <documentation_url/>
         <name>SDLC Alpha</name>
         <package_class>sys_app</package_class>
         <reason/>
-        <repo_url/>
+        <repo_url>https://github.com/saschawildgrube/servicenow-sdlc-alpha</repo_url>
         <sys_class_name>x_snc_devtools_dependency</sys_class_name>
         <sys_created_by>sascha.wildgrube</sys_created_by>
         <sys_created_on>2026-07-14 07:13:53</sys_created_on>
         <sys_id>d076e4423bce0b10ac55e8dc73e45ab9</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>SDLC Alpha</sys_name>
         <sys_package display_value="SDLC Platform WORK IN PROGRESS" source="x_sdlc_platform">3816e0023bce0b10ac55e8dc73e45ab7</sys_package>
         <sys_policy/>
         <sys_scope display_value="SDLC Platform WORK IN PROGRESS">3816e0023bce0b10ac55e8dc73e45ab7</sys_scope>
         <sys_update_name>x_snc_devtools_dependency_d076e4423bce0b10ac55e8dc73e45ab9</sys_update_name>
         <sys_updated_by>sascha.wildgrube</sys_updated_by>
-        <sys_updated_on>2026-07-14 07:13:53</sys_updated_on>
+        <sys_updated_on>2026-07-14 07:23:21</sys_updated_on>
         <versions>1.0.0</versions>
     </x_snc_devtools_dependency>
 </record_update>
