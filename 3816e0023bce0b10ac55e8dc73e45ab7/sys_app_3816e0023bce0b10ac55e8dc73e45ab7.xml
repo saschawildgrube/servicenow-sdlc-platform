@@ -33,16 +33,16 @@
         <sys_created_by/>
         <sys_created_on/>
         <sys_id>3816e0023bce0b10ac55e8dc73e45ab7</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_updated_by>sascha.wildgrube</sys_updated_by>
-        <sys_updated_on>2026-07-14 07:19:18</sys_updated_on>
+        <sys_updated_on>2026-07-14 07:24:52</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>0.1.0</version>
+        <version>1.0.0</version>
         <x_snc_devtools_documentation_url/>
         <x_snc_devtools_maintainer/>
         <x_snc_devtools_maintainer_email/>
